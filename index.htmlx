@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>For My Duma ❤️</title>
+
+<link rel="stylesheet" href="css/style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div id="stars"></div>
+
+<div class="container">
+
+<h1>
+
+To The Most Beautiful Girl ❤️
+
+</h1>
+
+<h2>
+
+Duma
+
+</h2>
+
+<p>
+
+Some stories begin with a hello...
+
+Mine began with you.
+
+</p>
+
+<button id="open">
+
+💌 Open My Heart
+
+</button>
+
+</div>
+
+<audio id="song" loop>
+
+<source src="music/song.mp3" type="audio/mpeg">
+
+</audio>
+
+<div id="timer">
+
+<h2>
+
+❤️ Together Since ❤️
+
+</h2>
+
+<h3>
+
+10 September 2023
+
+</h3>
+
+<div id="countdown"></div>
+
+</div>
+
+<script src="js/script.js"></script>
+
+</body>
+
+</html>
